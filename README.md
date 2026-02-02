@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 Data Science & Analytics (Strong Base)
+### 📊 Data Science & Analytics 
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
